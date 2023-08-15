@@ -41,3 +41,8 @@ Make sure you have Flutter and Dart installed on your machine. You can follow th
 4- Avoid touching the walls, as it will end the game.
 
 ## Images
+![Screenshot 1](./screenshots/Snake%201.png)
+
+![Screenshot 2](./screenshots/Snake%202.png)
+
+![Screenshot 3](./screenshots/Snake%203.png)
