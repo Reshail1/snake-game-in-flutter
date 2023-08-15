@@ -1,16 +1,43 @@
-# snake_flutter
+# Flutter Snake Game
 
-A new Flutter project.
+This project is a classic snake game built with Flutter. The player can control the snake by swiping in the desired direction, and the objective is to eat the food to grow the snake. The game ends if the snake touches the walls or collides with itself, and the total points are displayed.
+
+## Features
+
+- Swipe controls for smooth navigation.
+- Random food placement.
+- Points tracking, displayed at the top of the screen.
+- Game over alert with points and option to restart the game.
+- Adaptive grid layout for different screen sizes.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Make sure you have Flutter and Dart installed on your machine. You can follow the instructions [here](https://flutter.dev/docs/get-started/install) to install Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/reshail1/snake-game-in-flutter.git
+ 
+2- Navigate to the project directory:
+``cd snake-game-in-flutter``
+
+3- Install dependencies:
+``flutter pub get``
+
+4- Run the app:
+``flutter run``
+
+
+## Usage
+1- Tap "Start Game" to begin.
+2- Control the snake's direction by swiping up, down, left, or right.
+3- Eat the food to grow the snake and earn points.
+4- Avoid touching the walls, as it will end the game.
+
+## Images
